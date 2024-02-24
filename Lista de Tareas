@@ -2,7 +2,4 @@ LISTA DE TAREAS 😫
 
 ** AMBOS NIVELES **
 - Añadir fondo
-- Añadir sonido cada vez que se consiga un premio
-    ~ Arrastrar audio (en Imagenes) a Premio
-    ~ Dentro de las propiedades de Premio -> Audio -> Quitar Play on Awake
-    ~ Arrastrar script (Sonido) a Premio -> Quien Emite: Premio -> EL sonido: Audio (Sonido)
+- Añadir música
