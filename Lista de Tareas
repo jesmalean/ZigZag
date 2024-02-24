@@ -6,14 +6,3 @@ LISTA DE TAREAS 😫
     ~ Arrastrar audio (en Imagenes) a Premio
     ~ Dentro de las propiedades de Premio -> Audio -> Quitar Play on Awake
     ~ Arrastrar script (Sonido) a Premio -> Quien Emite: Premio -> EL sonido: Audio (Sonido)
-- Añadir premios 
-    ~ Cuando se añadan -> Tag = Premio
-    ~ Añadir script de Rotacion
-
-** NIVEL 1 **
-- Añadir Canvas (tiempo)
-
-** Nivel 2 ** 
-- Arreglar suelo invisible
-- Arreglar puntos
-- Añadir Canvas  (tiempo)
