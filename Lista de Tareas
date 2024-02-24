@@ -11,8 +11,7 @@ LISTA DE TAREAS 😫
     ~ Añadir script de Rotacion
 
 ** NIVEL 1 **
-- Añadir Canvas (con puntos y tiempo)
-- Añadir suelo (invisible) cuando la pelota se caiga y pase a la escena Game Over
+- Añadir Canvas (tiempo)
 
 ** Nivel 2 ** 
 - Arreglar suelo invisible
